@@ -2,7 +2,7 @@
 
 Este projeto é uma aplicação destinada a gerir os colaboradores da Alura, organizando-os por escolas. A aplicação permite configurar e cadastrar a estrutura da empresa, exibindo imagens dos instrutores agrupados pelas respectivas escolas. A principal funcionalidade é a capacidade de adicionar dinamicamente novos membros às equipes através de um formulário de cadastro.
 
-Atualização: Agora podemos deletar colaboradores dos times, adicionar como favoritos(estrela) e criar um novo time, utilizando nome do time e escolhendo a cor.
+Atualização: Agora podemos deletar colaboradores dos times, adicionar como favoritos(estrela) e criar um novo time, utilizando nome do time e escolhendo a cor(inclusive dos times já criados).
 
 ## 🛠️ Tecnologias utilizadas
 
